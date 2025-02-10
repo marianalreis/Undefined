@@ -229,7 +229,7 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
+O jogo começa em uma pane no banco do BTG Pactual, num estado de emergência. Porém, um programador novato, se vê em uma situação muito mais complicada do que poderia imaginar. Durante seu processo de onboarding, um erro transporta ele para dentro de seu próprio código, onde ele precisa concluir seu processo de onboarding para voltar ao mundo real. O jogo mistura elementos de puzzle, aventura e simulação de programação. O jogador interage com seu código, corrigindo erros e completando tarefas para avançar. A primeira versão foca em uma interação básica com o código-fonte e em pequenas correções que o jogador precisa fazer.
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
