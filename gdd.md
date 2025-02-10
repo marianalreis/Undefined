@@ -6,15 +6,21 @@
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
 
 ## Nome do Grupo
-Enzo Piol Ceruti
-Gabriel Brand Goldsztajn
-José Antônio Ferreira de Lima
-Marcus Felipe dos Santos Valente
-Mariana Lacerda Reis
-Patrick Natan Murachovsky
-Rebeca Namura Sbroglio
-#### Nomes dos integrantes do grupo
 
+#### Nomes dos integrantes do grupo
+Enzo Piol Ceruti
+
+Gabriel Brand Goldsztajn
+
+José Antônio Ferreira de Lima
+
+Marcus Felipe dos Santos Valente
+
+Mariana Lacerda Reis
+
+Patrick Natan Murachovsky
+
+Rebeca Namura Sbroglio
 
 
 ## Sumário
