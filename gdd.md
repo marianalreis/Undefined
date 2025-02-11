@@ -89,10 +89,14 @@ Rebeca Namura Sbroglio
 *Exemplo de tabela de requisitos*
 \# | Requisito  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Ao iniciar o jogo, o jogador irá assistir uma cutscene para introduzir o jogo ao entrar no computador e no código
+2 | O personagem se locomove com as teclas WASD e as setas do teclado
+3 | O jogo deve possuir uma tela de abertura com teclas "jogar", "opções" e "sair"
+4 | O jogo é composto por fases limitadas, que quando concluídas atingem o objetivo de sair do computador
+5 | A fase final será no estilo quiz, com pontuação mínima para conseguir finalizar
+6 | O ambiente será dentro do computador e cada nível será uma pasta
+7 | Os minigames das fases serão: Escape Runs
+8 |
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
