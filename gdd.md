@@ -88,13 +88,12 @@ Rebeca Namura Sbroglio
 \# | Requisito  
 --- | ---
 1 | Ao iniciar o jogo, o jogador irá assistir uma cutscene para introduzir o jogo ao entrar no computador e no código
-2 | O personagem se locomove com as teclas WASD e as setas do teclado
-3 | O jogo deve possuir uma tela de abertura com teclas "jogar", "opções" e "sair"
+2 | O personagem se locomove com as setas do teclado
+3 | O jogo deve possuir uma tela de abertura com tecla "jogar"
 4 | O jogo é composto por fases limitadas, que quando concluídas atingem o objetivo de sair do computador
 5 | A fase final será no estilo quiz, com pontuação mínima para conseguir finalizar
 6 | O ambiente será dentro do computador e cada nível será uma pasta
-7 | Os minigames das fases serão: Escape Runs
-8 |
+7 | Todas as fases terão minigames que variam
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
@@ -243,7 +242,7 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 4.1. Desenvolvimento preliminar do jogo (sprint 1)
 
-O jogo começa em uma pane no banco do BTG Pactual, num estado de emergência. Porém, um programador novato, se vê em uma situação muito mais complicada do que poderia imaginar. Durante seu processo de onboarding, um erro transporta ele para dentro de seu próprio código, onde ele precisa concluir seu processo de onboarding para voltar ao mundo real. O jogo mistura elementos de puzzle, aventura e simulação de programação. O jogador interage com seu código, corrigindo erros e completando tarefas para avançar. A primeira versão foca em uma interação básica com o código-fonte e em pequenas correções que o jogador precisa fazer.
+O jogo começa em uma pane no banco do BTG Pactual, num estado de emergência. Porém, um programador novato, se vê em uma situação muito mais complicada do que poderia imaginar. Durante seu processo de onboarding, um erro transporta ele para dentro de seu próprio código, onde ele precisa concluir seu processo de onboarding para voltar ao mundo real. O jogo mistura elementos de puzzle, aventura e simulação de programação. O jogador interage com seu código, corrigindo erros e completando tarefas para avançar.
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
