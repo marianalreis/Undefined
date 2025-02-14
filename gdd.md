@@ -3,7 +3,7 @@
 
 # GDD - Game Design Document - Módulo 1 - Inteli
 
-UNDEFINED
+GRUPO: UNDEFINED
 
 #### Nomes dos integrantes do grupo
 Enzo Piol Ceruti
