@@ -56,7 +56,13 @@ Rebeca Namura Sbroglio
 
 ### 1.1.2. Análise SWOT (sprint 2)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+Strengths: O BTG Pactual é um dos principais bancos de investimento no Brasil e é conhecido por sua atuação em setores como investimentos, gestão de ativos, e corporate banking, que são de alta rentabilidade. A marca é vista como sólida e confiável no mercado. Portanto, o banco tem uma reputação consolidada.
+
+Weakness: O banco, embora tenha algumas relações internacionais, tem a maior parte das receitas e operações do BTG Pactual ainda provêm do Brasil, o que o torna vulnerável a instabilidades econômicas e políticas no país.
+
+Opportunities: O aumento da conscientização sobre investimentos nas classes média e alta, oferece uma oportunidade para o BTG expandir seus serviços de wealth management, aproveitando o interesse crescente por investimentos em ações, fundos imobiliários e outros produtos financeiros.
+
+Threats: O setor bancário e de investimentos é muito competitivo, com concorrentes tradicionais como Itaú, Bradesco, e até bancos internacionais com presença no Brasil, além do crescimento dos bancos digitais, que oferecem soluções mais ágeis.
 
 ### 1.1.3. Missão / Visão / Valores (sprint 2)
 
