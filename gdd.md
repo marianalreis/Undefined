@@ -103,8 +103,8 @@ Threats: O setor bancário e de investimentos é muito competitivo, com concorre
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
-O público alvo do nosso jogo são os novos analistas de fundo de investimentos do banco, com o objetivo de facilitar a adaptação dos novos empregados ao banco, garantindo que eles compreendam rapidamente as políticas, a cultura corporativa, os processos internos e as ferramentas utilizadas pela instituição.
-Idade: 20 a 40 anos (São perfis mais jovens entrando em grandes empresas de investimentos).
+O público alvo do nosso jogo são os novos analistas de fundo de investimentos do banco, com o objetivo de facilitar a adaptação dos novos empregados ao banco, garantindo que eles compreendam rapidamente as políticas, a cultura corporativa, os processos internos e as áreas de conhecimento.
+Idade: 20 a 50 anos (São perfis mais jovens entrando em grandes empresas de investimentos).
 Perfil: Profissionais recém-contratados em cargos de análise ou assistentes, com pouca experiência no BTG. 
 Motivação: Buscar integração mais rápida e entender o ambiente de trabalho. 
 
