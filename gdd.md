@@ -162,7 +162,12 @@ Motivação: Buscar integração mais rápida e entender o ambiente de trabalho.
 
 ### 3.2.3. Diversidade e Representatividade dos Personagens
 
-Considerando as personagens do game, analise se estas estão alinhadas ao público-alvo do jogo (seção 1.3), e compare-as dentro da realidade da sociedade brasileira. Por fim, discorra sobre qual é o impacto esperado da escolha dessas personagens.
+Os personagens do nosso jogo estão alinhados com nosso público alvo. São homens e mulheres de 20 a 50 anos, tendo o nome variado de acordo com o player, totalizando 4 diferentes personagens. 
+A personagem feminina tem 23 anos e é especialista em excel e day trade. Ela está em um momento de transição, entre o que aprendeu na faculdade e o que precisa aplicar no mundo corporativo. Ela busca estabilidade, aprendizado prático e networking. Sua necessidade de ter uma "base sólida" sugere que o jogo deve oferecer uma combinação de teoria aplicada com exemplos práticos, além de situações que a ajudem a desenvolver habilidades essenciais. 
+Essa personagem pode ser usada para momentos de aprendizado no jogo. O processo de onboarding no BTG Pactual é uma jornada de iniciação ao mercado financeiro para ela. No jogo ela precisa aplicar seus conhecimentos básicos para realizar tarefas financeiras.
+	O personagem masculino é formado em ciência da computação e tem 30 anos de idade. Ele vem de uma área técnica e precisa adaptar seus conhecimentos de tecnologia ao universo dos fundos de investimentos. Ele representa uma transição que muitos profissionais da área de tecnologia estão fazendo: aplicar suas habilidades tecnológicas em um setor financeiro mais tradicional. Ele precisa compreender a dinâmica do mercado financeiro, estratégias de investimentos, e como a tecnologia pode ser usada de forma prática nesse contexto.
+O jogo pode levar esse personagem a interagir com o sistema de fundos de investimentos do banco, onde ele precisa aprender a usar suas habilidades de programação e tecnologia para inovar na análise de fundos. Ele pode começar com tarefas como aprender sobre o comportamento de mercado.	
+
 
 ## 3.3. Mundo do jogo (sprints 2 e 3)
 
